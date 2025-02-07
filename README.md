@@ -37,7 +37,7 @@ Check out my portfolio live at: [Aafreen's Portfolio](https://amazing-dragon-8bd
 
 ## Connect With Me  
 Reach out via:  
-- **Email**: [aafreenmoyal@gmail.com]  
+- **Email**: [aafreenmoyal@gmail.com]
 - **LinkedIn**: [linkedin.com/in/aafreenmoyal](https://linkedin.com/in/aafreenmoyal)  
 - **GitHub**: [github.com/aafreenmoyal](https://github.com/aafreenmoyal)
 
